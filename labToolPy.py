@@ -6,3 +6,4 @@ Created on Sat Jul 29 22:49:36 2017
 @author: kot
 """
 
+import numpy as np
